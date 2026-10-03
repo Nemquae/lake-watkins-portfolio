@@ -1,0 +1,500 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 4105 >>
+stream
+BT
+/F1 8.60 Tf
+10.60 TL
+1 0 0 1 54 738 Tm
+(LAKE WATKINS) Tj
+T*
+() Tj
+T*
+(AI Game Designer * AGI Research Engineer * Technical & Creative Director) Tj
+T*
+() Tj
+T*
+(San Francisco, United States * lake.watkins@gmail.com * \(341\) 222-7713 * linkedin.com/in/lake-) Tj
+T*
+(watkins-39102a14 \(https://www.linkedin.com/in/lake-watkins-39102a14\)) Tj
+T*
+() Tj
+T*
+(------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(SUMMARY) Tj
+T*
+() Tj
+T*
+(Co-Founder and Chief Architect of Magi AGI, building neurosymbolic Artificial General) Tj
+T*
+(Intelligence \(AGI\) agents and an AI Game Master platform on the Hyperon cognitive architecture.) Tj
+T*
+(20+ years in technology \(professional work since 2004; in the games industry since 2007\)) Tj
+T*
+(spanning AI research \(cognitive architectures, Large Language Model \(LLM\) agents, conversational) Tj
+T*
+(AI for Hanson Robotics' Sophia\), engineering leadership \(Technical Director, CTO, 21+ shipped) Tj
+T*
+(game releases, 12+ patents\), and creative game design \(30+ years GMing, 10+ years as a) Tj
+T*
+(professional GM, with longitudinal player-experience data\). Equally credible as a senior game) Tj
+T*
+(designer / creative director and as a founding / staff engineer at AI startups. Specializes in) Tj
+T*
+(the intersection of Large Language Models, symbolic AI \(MeTTa / Atomspace / Hyperon\), and) Tj
+T*
+(interactive narrative systems.) Tj
+T*
+() Tj
+T*
+(------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(CORE SKILLS & TECHNOLOGIES) Tj
+T*
+() Tj
+T*
+(Artificial Intelligence & Research: Neurosymbolic AI * Artificial General Intelligence \(AGI\) *) Tj
+T*
+(Large Language Model \(LLM\) agents * Cognitive Architectures * Hyperon * MeTTa * Atomspace *) Tj
+T*
+(OpenPsi * Probabilistic Logic Networks \(PLN\) * Goal Management * Causal Reasoning * Temporal) Tj
+T*
+(Credit Assignment * Knowledge Graphs * Hypergraph Reasoning * Behavior Trees * Hierarchical Task) Tj
+T*
+(Networks \(HTN\) * Reinforcement Learning * AI Alignment * Interpretability * Conversational AI *) Tj
+T*
+(Dialogue Systems * Action Planning * Multi-Agent Systems) Tj
+T*
+() Tj
+T*
+(Game Design & Direction: Game Design * Systems Design * Narrative Design * Level Design *) Tj
+T*
+(Technical Design * Creative Direction * Gameplay Programming * Game Prototyping * Game Balancing) Tj
+T*
+(* Live-Service Design * AI-Driven NPCs * Procedural Content * Tabletop / Role-Playing Game \(RPG\)) Tj
+T*
+(Design * Game-Based Learning * Educational Game Design * Player Retention Analysis) Tj
+T*
+() Tj
+T*
+(Engineering: C++ * C# * C * Python * Java * Objective-C * JavaScript * Unity * Unity3D * Unreal) Tj
+T*
+(Engine \(familiar\) * Cocos2D * Shaders \(HLSL / GLSL\) * Fluid Simulation * Real-Time Rendering *) Tj
+T*
+(Mobile Development \(iOS, Android\) * Cross-Platform Engines * Git * Version Control * Continuous) Tj
+T*
+(Integration / Continuous Deployment \(CI/CD\) * Agile * Scrum) Tj
+T*
+() Tj
+T*
+(Leadership & Operations: Technical Leadership * Engineering Management * R&D Direction * Cross-) Tj
+T*
+(Functional Team Building * Hiring & Mentorship * Stakeholder & Investor Relations * Pitch) Tj
+T*
+(Authorship * Whitepaper Authorship * Grant Writing * Open-Source Strategy * Patent Authorship) Tj
+T*
+() Tj
+T*
+(------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(WORK EXPERIENCE) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Co-Founder & Chief Architect - Magi AGI) Tj
+T*
+(2025 - Present * San Francisco, CA) Tj
+T*
+() Tj
+T*
+(- Co-founded Magi AGI to build interpretable, goal-directed AI systems for interactive worlds -) Tj
+T*
+(  proving the architecture through game products with an AI Game Master as the lead product.) Tj
+T*
+(- Architected MAGUS \(Modular Adaptive Goal and Utility System\), a hierarchical goal-management) Tj
+T*
+(  framework with an overgoal mechanism that evaluates goal fitness by measurability and inter-) Tj
+T*
+(  goal correlation, preventing instrumental convergence through explicit separation of metric) Tj
+T*
+(  measurement from goal-driven behavior.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3834 >>
+stream
+BT
+/F1 8.60 Tf
+10.60 TL
+1 0 0 1 54 738 Tm
+(- Architected HERMES \(Hypergraph Experiential Reasoning & Motivational Engagement System\), a) Tj
+T*
+(  causal-knowledge-graph engine performing temporal credit assignment over experiential traces) Tj
+T*
+(  and embedding causal attributions in MeTTa / Atomspace for goal-directed planning.) Tj
+T*
+(- Designed the closed-loop integration between HERMES, MAGUS, and OpenPsi action selection -) Tj
+T*
+(  experience -> causal structure -> goal prioritization -> action -> new experience.) Tj
+T*
+(- Direct architecture for the AI Game Master product: a neurosymbolic agent targeting) Tj
+T*
+(  professional-quality tabletop campaign play over 700+ hours per playthrough, benchmarked) Tj
+T*
+(  against a 10-year, ~170-session reference dataset of longitudinal player-retention data at) Tj
+T*
+(  $80/month.) Tj
+T*
+(- Designed the dual-entity corporate structure \(Magi AI, Inc. C-Corp + Magi Games Cooperative) Tj
+T*
+(  LLC\) balancing venture-scale AI research with cooperative talent retention for creative work.) Tj
+T*
+(- Lead cross-disciplinary team across cognitive architecture, game design, narrative, and) Tj
+T*
+(  product; manage grant strategy \(NSF SBIR, AI Safety / Knight / Mozilla funder pipeline\).) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Steward of Design - Glass Umbrella) Tj
+T*
+(01/2025 - Present) Tj
+T*
+() Tj
+T*
+(- Direct design and development on an unannounced AI-driven game and educational project.) Tj
+T*
+(- Run multi-year tabletop RPG campaigns with multiple concurrent weekly groups; this practice) Tj
+T*
+(  generates the longitudinal player-experience data that anchors the Magi AI Game Master quality) Tj
+T*
+(  bar.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Neoterics Lead - SingularityNet) Tj
+T*
+(06/2024 - 04/2025) Tj
+T*
+() Tj
+T*
+(- Led the Neoterics initiative building first-generation AGI agents on the PRIMUS / Hyperon) Tj
+T*
+(  neurosymbolic cognitive architecture.) Tj
+T*
+(- Designed conversational AIs combining LLM-based improvisation with authored narrative scripts) Tj
+T*
+(  and meaningful player choice; shipped integrations into the SophiaVerse game.) Tj
+T*
+(- Coordinated cross-functional engineering between SingularityNet's AI platform team and) Tj
+T*
+(  external partner game teams.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Partner Engineer - Take-Two Interactive Software, Inc.) Tj
+T*
+(11/2022 - 05/2024) Tj
+T*
+() Tj
+T*
+(- Directly supported a dozen-plus internal game teams integrating Take-Two's social and platform) Tj
+T*
+(  services.) Tj
+T*
+(- Defined partner-lifecycle and engagement metrics adopted as the internal partner-tracking) Tj
+T*
+(  standard.) Tj
+T*
+(- Built reference demos of the social-services SDK on a new platform for partner onboarding and) Tj
+T*
+(  training.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Co-Founder & CTO - Hark) Tj
+T*
+(09/2021 - 08/2022 * Game Development Studio) Tj
+T*
+() Tj
+T*
+(- Designed and developed game prototypes including a fluid-and-life simulation shader system.) Tj
+T*
+(- Managed cross-disciplinary team across engineering, art, music, design, web development, and) Tj
+T*
+(  marketing.) Tj
+T*
+(- Closed investors, partners, and team hires; authored the pitch deck, game design document) Tj
+T*
+(  \(GDD\), trailer script, whitepaper, and other foundational documentation.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Founder & Game Master - Ledge Foundation) Tj
+T*
+(08/2015 - 12/2021 * Open Gaming Foundation / Game-Based Learning Social Enterprise) Tj
+T*
+() Tj
+T*
+(- Founded and ran a multi-year organized-play foundation; designed, developed, and shipped) Tj
+T*
+(  multiple complete tabletop game experiences including narratives, characters, environments,) Tj
+T*
+(  combat encounters, and meta-systems.) Tj
+T*
+(- Designed full English- and Mathematics-education curricula delivered through gameplay; ran) Tj
+T*
+(  live sessions in partnership with schools and educators.) Tj
+T*
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3333 >>
+stream
+BT
+/F1 8.60 Tf
+10.60 TL
+1 0 0 1 54 738 Tm
+(- Built and sustained a dedicated player community with 90%+ month-to-month retention sustained) Tj
+T*
+(  across a decade of professional GMing; the underlying retention data \(~170-session campaigns) Tj
+T*
+(  over 10+ years\) is now the empirical benchmark for the Magi AI Game Master product.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(AI Software Designer - SingularityNET / Hanson Robotics) Tj
+T*
+(04/2018 - 05/2019) Tj
+T*
+() Tj
+T*
+(- Designed the goal- and motivational-system architecture for the Sophia humanoid robot -) Tj
+T*
+(  personality, dialogue, and action planning.) Tj
+T*
+(- Led the design of the GHOST scripting language for chatbot authoring and improved dialogue) Tj
+T*
+(  control.) Tj
+T*
+(- Coordinated AI, hardware, and creative teams to align organizational goals and product) Tj
+T*
+(  strategy.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Vision Designer & Team Lead - Hong Kong Polytechnic University) Tj
+T*
+(09/2016 - 04/2018) Tj
+T*
+() Tj
+T*
+(- Designed, developed, and released Ilolo, a mobile game for children with special educational) Tj
+T*
+(  needs.) Tj
+T*
+(- Owned the core vision design and implemented the first prototypes.) Tj
+T*
+(- Oversaw focus testing in local schools with direct feedback from players, parents, and) Tj
+T*
+(  educators.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Lead Game Designer / Developer - OpenCog Foundation) Tj
+T*
+(02/2012 - 06/2015) Tj
+T*
+() Tj
+T*
+(- Designed and developed a Minecraft-style game world as a training-and-evaluation environment) Tj
+T*
+(  for embodied AGI agents.) Tj
+T*
+(- Built new AI systems including a behavior-tree framework integrated with a hierarchical) Tj
+T*
+(  planning architecture.) Tj
+T*
+(- Extended Unity3D as an AGI host environment in C#, C++, Java, and Python.) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(Technical Director / R&D Lead / Mobile Game Developer - XMG Studio) Tj
+T*
+(11/2009 - 11/2011) Tj
+T*
+() Tj
+T*
+(- Shipped 21+ game releases across 9 franchises on iOS, Android, and Windows Phone 7.) Tj
+T*
+(- Programmed extensively in Objective-C, C++, and C#; built on Unity3D and Cocos2D.) Tj
+T*
+(- Managed multiple R&D teams; hired and onboarded 20+ engineers.) Tj
+T*
+(- Co-invented and patented 12+ innovations in mobile game design.) Tj
+T*
+() Tj
+T*
+(------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(SELECTED RESEARCH) Tj
+T*
+() Tj
+T*
+(- MAGUS and HERMES: A Two-Way Bridge for Experience-Grounded Goal Management in Neurosymbolic) Tj
+T*
+(  Agents - co-authored with Anna Mikeda and Ursula Addison \(Magi AGI\). Architecture and) Tj
+T*
+(  formalism for a closed-loop neurosymbolic motivational system on the Hyperon stack;) Tj
+T*
+(  integration with OpenPsi action selection; evaluation framework against LLM-only and pure-) Tj
+T*
+(  symbolic baselines. \(Manuscript in submission; full publication detail will be added on) Tj
+T*
+(  acceptance.\)) Tj
+T*
+() Tj
+T*
+(------------------------------------------------------------------------) Tj
+T*
+() Tj
+T*
+() Tj
+T*
+(SELECTED RECOMMENDATIONS) Tj
+T*
+() Tj
+T*
+(> "Lake proved again and again his dedication to getting the job done right and thinking things) Tj
+T*
+(all the way through. He is an amazing architect and has a passion for in-depth game systems) Tj
+T*
+(design that is a rare craft these days." - Adam Telfer, Senior Director of Product, Bungie) Tj
+T*
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 1059 >>
+stream
+BT
+/F1 8.60 Tf
+10.60 TL
+1 0 0 1 54 738 Tm
+() Tj
+T*
+(> "He is the best programmer I have ever had the chance to work with. Not only was he) Tj
+T*
+(technically knowledgeable, he was also an effective communicator and a patient teacher ... a) Tj
+T*
+(rare mix of skill, diligence and great personality." - Sagar Patel, Freelance Creative Coder /) Tj
+T*
+(Experience Designer) Tj
+T*
+() Tj
+T*
+(> "A brilliant programmer always ready to put his energy into getting the job done. Precise and) Tj
+T*
+(deadline oriented. A wise team player who can be trusted." - Adam Cohen, UI/UX Engineer,) Tj
+T*
+(Autodesk) Tj
+T*
+() Tj
+T*
+(> "His knowledge in design and project management makes the projects he runs go smoothly ...) Tj
+T*
+(Lake also goes beyond the call of his position bringing a high moral and sense of comradery to) Tj
+T*
+(the work environment." - Rocco Commisso, Game Designer, Tech Artist & Instructor) Tj
+T*
+() Tj
+T*
+(Additional references available on request.) Tj
+T*
+() Tj
+T*
+(------------------------------------------------------------------------) Tj
+T*
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 10 0 R >>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000004367 00000 n 
+0000004493 00000 n 
+0000008379 00000 n 
+0000008505 00000 n 
+0000011890 00000 n 
+0000012016 00000 n 
+0000013128 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+13256
+%%EOF

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lake Watkins — Systems &amp; Narrative-Systems Design</title>
+<meta name="robots" content="noindex, nofollow">
+<style>
+  :root{
+    --ink:#15140f; --muted:#5c584d; --line:#ddd7c9; --bg:#faf8f3; --card:#fffdf8;
+    --accent:#7a5c2e; --accent-soft:#f0e6d2;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --ink:#eae6dc; --muted:#a7a094; --line:#39352c; --bg:#14130f; --card:#1c1a15;
+           --accent:#d8b271; --accent-soft:#2b2519; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 ui-serif,Georgia,"Iowan Old Style",Palatino,serif;}
+  .wrap{max-width:780px;margin:0 auto;padding:56px 24px 96px}
+  h1{font-size:2rem;line-height:1.2;margin:0 0 .35em;letter-spacing:-.01em}
+  h2{font-size:1.3rem;margin:2.6em 0 .6em;padding-bottom:.3em;border-bottom:1px solid var(--line)}
+  h3{font-size:1.02rem;margin:1.8em 0 .4em}
+  p{margin:0 0 1em}
+  a{color:var(--accent)}
+  .kicker{font:600 .74rem/1.4 ui-sans-serif,system-ui,sans-serif;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);margin:0 0 1.1em}
+  .lede{font-size:1.14rem;color:var(--ink)}
+  .proof{list-style:none;padding:0;margin:1.6em 0 0;font:.95rem/1.6 ui-sans-serif,system-ui,sans-serif}
+  .proof li{padding:.42em 0 .42em 1.4em;position:relative;border-top:1px solid var(--line)}
+  .proof li:before{content:"—";position:absolute;left:0;color:var(--accent)}
+  .proof li:first-child{border-top:0}
+  strong.metric{color:var(--accent)}
+  .cards{display:grid;gap:16px;margin-top:1.2em}
+  @media(min-width:680px){ .cards{grid-template-columns:1fr 1fr} .cards .wide{grid-column:1/-1} }
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px 22px}
+  .card h3{margin-top:0}
+  .card .role{font:600 .72rem/1.4 ui-sans-serif,system-ui,sans-serif;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 .5em}
+  .beat{margin:0 0 .7em;font-size:.95rem}
+  .beat b{font:600 .72rem/1.5 ui-sans-serif,system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);display:block}
+  figure{margin:1.6em 0;padding:18px;background:var(--card);border:1px dashed var(--line);border-radius:10px}
+  figcaption{font:.83rem/1.5 ui-sans-serif,system-ui,sans-serif;color:var(--muted);margin-top:.8em}
+  svg{display:block;width:100%;height:auto}
+  .svg-label{font:600 11px ui-sans-serif,system-ui,sans-serif;fill:var(--ink)}
+  .svg-sub{font:10px ui-sans-serif,system-ui,sans-serif;fill:var(--muted)}
+  .box{fill:var(--accent-soft);stroke:var(--accent);stroke-width:1.2}
+  .arrow{stroke:var(--accent);stroke-width:1.4;fill:none}
+  footer{margin-top:4em;padding-top:1.4em;border-top:1px solid var(--line);font:.86rem/1.6 ui-sans-serif,system-ui,sans-serif;color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="kicker">Systems &amp; Narrative-Systems Design</p>
+    <h1>Lake Watkins</h1>
+    <p class="lede">
+      I design long-horizon systems that keep people playing — and I have a decade of retention data on my own. 20+ years in technology, in games since 2007, as a technical director, CTO and designer. 30+ years running tabletop campaigns, 10+ of them professionally, where the design has to hold up week after week in front of paying players.
+    </p>
+    <ul class="proof">
+      <li><strong class="metric">90%+ month-to-month retention</strong> across the professional Game Mastering period — systems measured against real player behaviour, not playtests.</li>
+      <li>Multi-year campaigns designed, run and iterated with live player feedback every week.</li>
+      <li>21+ shipped game releases; Technical Director and CTO; 12+ patents.</li>
+      <li>AI and agent architecture: goal and motivational systems for the Sophia robot, the GHOST dialogue scripting language, and the MAGUS / HERMES agent architecture.</li>
+    </ul>
+  </header>
+
+  <h2>Selected work</h2>
+  <div class="cards">
+    <article class="card wide">
+      <p class="role">Headline case study · Professional campaign systems</p>
+      <h3>Long-horizon tabletop campaign design</h3>
+      <p class="beat"><b>Problem</b>A campaign that has to stay compelling for years, not hours — where consequence compounds, player agency is real, and the authored structure still has to hold.</p>
+      <p class="beat"><b>Design</b>Session-to-session state capture, consequence propagation, pacing and progression systems, encounter math, and reward structures that could be adjusted against observed player behaviour.</p>
+      <p class="beat"><b>Ran</b>Professional tabletop campaigns for 10+ years, including multi-year weekly groups and live iteration after each session.</p>
+      <p class="beat"><b>Outcome</b>Sustained <strong class="metric">90%+ month-to-month retention</strong> across the professional period.</p>
+    </article>
+
+    <article class="card">
+      <p class="role">Organized play · Game-based learning</p>
+      <h3>Ledge Foundation</h3>
+      <p class="beat"><b>Problem</b>Design tabletop experiences other people can run — and make them teach something measurable while staying games rather than lessons.</p>
+      <p class="beat"><b>Design</b>Complete tabletop experiences: narratives, characters, environments, combat encounters and the meta-systems tying them together. Full English and Mathematics curricula delivered through gameplay.</p>
+      <p class="beat"><b>Ran</b>Founded and ran the organized-play foundation; live sessions in partnership with schools and educators.</p>
+      <p class="beat"><b>Outcome</b>A sustained long-retention player community, and design documentation built for other facilitators to deliver.</p>
+    </article>
+
+    <article class="card">
+      <p class="role">Shipped title · Educational game design</p>
+      <h3>Ilolo</h3>
+      <p class="beat"><b>Problem</b>A mobile game for children with special educational needs — where the design has to work for players who will not read instructions.</p>
+      <p class="beat"><b>Design</b>Owned the core vision design and built the first prototypes.</p>
+      <p class="beat"><b>Ran</b>Focus testing in local schools with direct feedback from players, parents and educators.</p>
+      <p class="beat"><b>Outcome</b>Designed, developed and released. The full loop — vision, prototype, test, ship.</p>
+    </article>
+
+    <article class="card wide">
+      <p class="role">Technical bridge</p>
+      <h3>Systems, tools and agent architecture</h3>
+      <p class="beat"><b>Why it matters here</b>I implement what I design. C++, C#, Python, Unity; shipped tools and engine work; 21+ releases and 12+ patents across a Technical Director and CTO track.</p>
+      <p class="beat"><b>Agent &amp; AI work</b>Goal and motivational-system architecture for the Sophia humanoid robot; the GHOST dialogue scripting language; and MAGUS / HERMES, an agent architecture for goal management and experiential memory.</p>
+    </article>
+  </div>
+
+  <h2>Case study: a system that had to last</h2>
+  <p>
+    Most game design gets evaluated in a playtest window. Long-form tabletop campaign design does not: the same players return every week for years, and every decision compounds. Consequence has to accumulate without the state space becoming unmanageable. Player agency has to be genuine, which means the authored structure must survive choices it did not anticipate. And the pacing has to hold across a horizon long enough that novelty stops doing any of the work.
+  </p>
+  <p>
+    The design method was deliberately operational: capture the state that mattered, turn observed behaviour into a design signal, change one mechanism at a time, and test the change in the next live session. The point was not to produce a clever isolated mechanic; it was to keep a whole engagement system coherent under real longitudinal pressure.
+  </p>
+
+  <figure>
+    <svg viewBox="0 0 660 210" role="img" aria-label="Long-horizon campaign iteration loop">
+      <rect class="box" x="14"  y="70" width="140" height="52" rx="7"/>
+      <rect class="box" x="188" y="70" width="140" height="52" rx="7"/>
+      <rect class="box" x="362" y="70" width="140" height="52" rx="7"/>
+      <rect class="box" x="536" y="70" width="110" height="52" rx="7"/>
+      <text class="svg-label" x="84"  y="92"  text-anchor="middle">Live session</text>
+      <text class="svg-sub"   x="84"  y="108" text-anchor="middle">choices and friction</text>
+      <text class="svg-label" x="258" y="92"  text-anchor="middle">Signal</text>
+      <text class="svg-sub"   x="258" y="108" text-anchor="middle">what changed behaviour</text>
+      <text class="svg-label" x="432" y="92"  text-anchor="middle">System change</text>
+      <text class="svg-sub"   x="432" y="108" text-anchor="middle">one mechanism at a time</text>
+      <text class="svg-label" x="591" y="92"  text-anchor="middle">Next prep</text>
+      <text class="svg-sub"   x="591" y="108" text-anchor="middle">authored + adapted</text>
+      <path class="arrow" d="M154 96 H186" marker-end="url(#a)"/>
+      <path class="arrow" d="M328 96 H360" marker-end="url(#a)"/>
+      <path class="arrow" d="M502 96 H534" marker-end="url(#a)"/>
+      <path class="arrow" d="M591 70 V40 H84 V68" marker-end="url(#a)"/>
+      <defs>
+        <marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+          <path d="M0 0 L8 4 L0 8 z" fill="currentColor" style="fill:var(--accent)"/>
+        </marker>
+      </defs>
+    </svg>
+    <figcaption>
+      Campaign iteration loop, shown as a derived systems diagram. It contains no session content and no player-identifying detail.
+    </figcaption>
+  </figure>
+
+  <p>
+    The retention metric has limits: it measures continued participation in a facilitated social experience, not an isolated A/B test. That limit is also why it is useful. It shows that the systems held up under the hardest condition design gets tested against: the same people, every week, for years, free to leave at any point.
+  </p>
+  <p>
+    Live-service economy and engagement design asks the same question this practice answered every week: what keeps someone coming back once novelty is gone and only the systems remain. The transferable method is simple and demanding — instrument behaviour, read the signal honestly, change one mechanism at a time, and judge it against retention rather than against how clever the design felt.
+  </p>
+
+  <h2>Résumé &amp; contact</h2>
+  <p>
+    <a href="Resume-Lake-Watkins-public.pdf">ATS-safe résumé PDF</a>. For applications, contact can also go through the submitted résumé and the employer's application channel.
+  </p>
+
+  <footer>
+    <p>
+      <strong>Privacy.</strong> This page describes systems I designed and ran. Raw session logs and any player-identifying details remain private and are not published here. Player contributions are described only by their effect on the design, never reproduced or attributed. Client and partner work is described at the level of the design problem and approach; where technology was built for a partner, that partner owns it.
+    </p>
+  </footer>
+</div>
+</body>
+</html>
